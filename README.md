@@ -1,6 +1,6 @@
 # TO-DO React App
 
-This is my first official React App. Shedule your day ahead whith your own todo list. Any contributions are welcome.
+This is my first official React App. Shedule your day ahead with your own todo list. Any contributions are welcome.
 
 ## Available Scripts
 
